@@ -23,3 +23,4 @@ func main() {
 
 [View the docs](https://pkg.go.dev/github.com/replit/database-go) for more info
 about how to use the client to interact with Database.
+[![Run on Repl.it](https://repl.it/badge/github/replit/database-go)](https://repl.it/github/replit/database-go)
